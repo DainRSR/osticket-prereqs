@@ -84,4 +84,10 @@ The VM will then create (give it some time). This concludes the first few steps 
 <br />                                                                                                
                                                                                                  
 
-2.1 Once you are logged in you will see "Choose privacy settings", just set everything to 'No'. and accept. We will be installing 'IIS' with CGI (internet information services) it's a webserver that will allow the computer to serv up a website for us to open osTicket.                                                                                                 
+2.1 Once you are logged in you will see "Choose privacy settings", just set everything to 'No'. and accept. We will be installing 'IIS' with CGI (internet information services is a webserver that will allow the computer to serv up a website for us to open osTicket. CGI is the programming language that osTicket uses). Go to the start menu and open the control panel. Select programs and then select under program feature 'Turn windows features on or off'. Select ISS and expand it (+) and select world wide web and expand that and select CGI and press ok.
+<img src="https://i.imgur.com/TVngRmZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />          

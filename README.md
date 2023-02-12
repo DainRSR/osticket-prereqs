@@ -66,4 +66,4 @@ Press next until you get to 'Networking', you will notice that the VNet and SubN
 <br />
 <img src="https://i.imgur.com/oUiurS9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-The VM will then create (give it some time). This concludes the first few steps in creating our VM environment. Next we will install osTicket and other resources in the next lab. 
+The VM will then create (give it some time). This concludes the first few steps in creating our VM environment. Next we will install osTicket and other resources. 

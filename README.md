@@ -102,7 +102,7 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />                                                                                                    
 
                                                                                                
-2.1 Next we will download PHPManager from the link provided. All download resources are in this link for when you need to install something for the remainder of the lab. Open up your 'Downloads folder' so that after you download something it's easier to access.                                                    https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+2.1 Next we will download and install PHPManager first and then Rewrite from the link provided. All download resources are in this link for when you need to install something for the remainder of the lab. Open up your 'Downloads folder' so that after you download something it's easier to access.                                                    https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
 <img src="https://i.imgur.com/ta245Ov.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

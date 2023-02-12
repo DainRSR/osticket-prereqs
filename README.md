@@ -91,3 +91,12 @@ The VM will then create (give it some time). This concludes the first few steps 
 
 </p>
 <br />          
+
+                                                                                                 
+2.2 Open up microsoft edge and in your browser type in 127.0.0.1. This is a local loopback address and we will see if we can load a web page that runs off ourself. Press enter and your page should look exactly like this: 
+<img src="https://i.imgur.com/uZJ4sW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />                                                                                                    

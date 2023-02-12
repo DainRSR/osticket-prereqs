@@ -84,4 +84,4 @@ The VM will then create (give it some time). This concludes the first few steps 
 <br />                                                                                                
                                                                                                  
 
-                                                                                                 
+2.1 Once you are logged in you will see "Choose privacy settings", just set everything to 'No'. and accept. We will be installing 'IIS' with CGI (internet information services) it's a webserver that will allow the computer to serv up a website for us to open osTicket.                                                                                                 

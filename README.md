@@ -93,10 +93,19 @@ The VM will then create (give it some time). This concludes the first few steps 
 <br />          
 
                                                                                                  
-2.2 Open up microsoft edge and in your browser type in 127.0.0.1. This is a local loopback address and we will see if we can load a web page that runs off ourself. Press enter and your page should look exactly like this: 
+Open up microsoft edge and in your browser type in 127.0.0.1. This is a local loopback address and we will see if we can load a web page that runs off ourself. Press enter and your page should look exactly like this: 
 <img src="https://i.imgur.com/uZJ4sW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 </p>
 <br />                                                                                                    
+
+                                                                                               
+2.1 Next we will download PHPManager from the link provided. All download resources are in this link for when you need to install something for the remainder of the lab. Open up your 'Downloads folder' so that after you download something it's easier to access.                                                    https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+<img src="https://i.imgur.com/ta245Ov.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />     

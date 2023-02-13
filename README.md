@@ -123,7 +123,7 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />                                                                                                  
 
                                                                                                  
-2.3 Next we want to download 'MySQL' and install it. When you get to "setup type" choose 'TYPICAL' and press next. When you get to the 'Instance Configuration' choose 'STANDARD' and hit next and next again. Now we need to create a username and password (maybe write these down somehwere to remeber for this lab). MySQL is pretty much creating a database for osTicket to store users and tickets that we will create. 
+2.3 Next we want to download 'MySQL' and install it. When you get to "setup type" choose 'TYPICAL' and press next. When you get to the 'Instance Configuration' choose 'STANDARD' and hit next and next again. Now we need to create a username and password (maybe write these down somehwere to remeber for this lab, you can use 'Password1' or whatever you choose). MySQL is pretty much creating a database for osTicket to store users and tickets that we will create. 
 
 <img src="https://i.imgur.com/IiIsohA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -131,3 +131,13 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 
 </p>
 <br />                                                                              
+
+                                                                                                 
+2.4 Next we will open IIS as an Administrator and register PHP. Go to the start menu, type IIS (right click it and press 'Run as Administrator'). Click PHP Manager. You will see that it is not enabled. Click on 'Register new PHP version'. Next we will browse our C: drive and select PHP folder and select 'php-cgi'press ok. Now PHP is enabled. Look to the left and select VM-osTicket and that will take you to the home page. Look to the right side and press 'Restart'. 
+
+<img src="https://i.imgur.com/TuonRKB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />                                                                                                 

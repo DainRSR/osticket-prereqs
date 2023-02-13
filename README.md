@@ -197,3 +197,10 @@ Here is the link to download HeidiSQL: https://www.heidisql.com/installers/Heidi
 
 </p>
 <br />
+
+<img src="https://i.imgur.com/1PVCaFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />

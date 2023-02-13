@@ -109,3 +109,12 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 
 </p>
 <br />     
+
+                                                                                                 
+2.2 Go to the C:drive and create a new folder called 'PHP' and then go to the download link and download 'PHP 7.3.8'. We will download that and then extract the files into our PHP folder we created. WHen you right click on the file press ectract all and the browse and go to C: drive and slect your PHP folder and press ok and extract. 
+<img src="https://i.imgur.com/ohtutvf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />                                                                                                  

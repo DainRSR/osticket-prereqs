@@ -85,6 +85,7 @@ The VM will then create (give it some time). This concludes the first few steps 
                                                                                                  
 
 2.1 Once you are logged in you will see "Choose privacy settings", just set everything to 'No'. and accept. We will be installing 'IIS' with CGI (internet information services is a webserver that will allow the computer to serv up a website for us to open osTicket. CGI is the programming language that osTicket uses). Go to the start menu and open the control panel. Select programs and then select under program feature 'Turn windows features on or off'. Select ISS and expand it (+) and select world wide web and expand that and select CGI and press ok.
+
 <img src="https://i.imgur.com/TVngRmZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -94,6 +95,7 @@ The VM will then create (give it some time). This concludes the first few steps 
 
                                                                                                  
 Open up microsoft edge and in your browser type in 127.0.0.1. This is a local loopback address and we will see if we can load a web page that runs off ourself. Press enter and your page should look exactly like this: 
+
 <img src="https://i.imgur.com/uZJ4sW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -111,10 +113,21 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />     
 
                                                                                                  
-2.2 Go to the C:drive and create a new folder called 'PHP' and then go to the download link and download 'PHP 7.3.8'. We will download that and then extract the files into our PHP folder we created. WHen you right click on the file press ectract all and the browse and go to C: drive and slect your PHP folder and press ok and extract. 
+2.2 Go to the C:drive and create a new folder called 'PHP' and then go to the download link and download 'PHP 7.3.8'. We will download that and then extract the files into our PHP folder we created. WHen you right click on the file press ectract all and the browse and go to C: drive and slect your PHP folder and press ok and extract. Next we will download the VC redistrubte file. This is our Microsoft Visual C++.
+
 <img src="https://i.imgur.com/ohtutvf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 </p>
 <br />                                                                                                  
+
+                                                                                                 
+2.3 Next we want to download 'MySQL' and install it. When you get to "setup type" choose 'TYPICAL' and press next. When you get to the 'Instance Configuration' choose 'STANDARD' and hit next and next again. Now we need to create a username and password (maybe write these down somehwere to remeber for this lab). MySQL is pretty much creating a database for osTicket to store users and tickets that we will create. 
+
+<img src="https://i.imgur.com/IiIsohA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />                                                                              

@@ -153,7 +153,7 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />   
                                                                                                  
                                                                                                  
-2.6 Go back to IIS and choose sites and osTicket. Double click on PHP Manager and click 'enable or disable extensions'. We are going to enable 'php_imap.dll', 'php_intl.dll', and 'php_opcache.dll'. Refresh the osTicket browser we opened previously and notice the changes that took place. Most of the red disabled are now green enabled except the last two (thats ok). Now we will rename the ost-config.php. Go to inetpub and then wwwroot and click on the 'include' folder. Scroll downa nd look for 'ost-sampleconfig.php' and rename it to 'ost-config.php'. 
+2.6 Go back to IIS and choose sites and osTicket. Double click on PHP Manager and click 'enable or disable extensions'. We are going to enable 'php_imap.dll', 'php_intl.dll', and 'php_opcache.dll'. Refresh the osTicket browser we opened previously and notice the changes that took place. Most of the red disabled are now green enabled except the last two (thats ok). Now we will rename the ost-config.php. Go to inetpub and then wwwroot and click on the 'include' folder. Scroll downa nd look for 'ost-sampleconfig.php' and rename it to 'ost-config.php'. Next we will assign permissions. Right click the file and go to properties, go to security and then advance and disable inhertince and remove all permissions. Then add permissions and select principal. In the box below type "everyone" and press ok. Click the 'Full Control' box and hit ok and apply. 
  
 <img src="https://i.imgur.com/Pigraim.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -161,6 +161,16 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 
 </p>
 <br />                                                                                                
+
+                                                                                                 
+2.7 Now we will continue setting up osTicket in our browser. Click continue at the bottom. Here we will setup our user information. You can put whatever info you choose. Remember to write down your username and password incase you need it later in the lab. 
+
+<img src="https://i.imgur.com/ClZyqQk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />                                                                                                 
 
                                                                                                  
                                                                                                  

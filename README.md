@@ -153,4 +153,14 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />   
                                                                                                  
                                                                                                  
+2.6 Go back to IIS and choose sites and osTicket. Double click on PHP Manager and click 'enable or disable extensions'. We are going to enable 'php_imap.dll', 'php_intl.dll', and 'php_opcache.dll'. Refresh the osTicket browser we opened previously and notice the changes that took place. Most of the red disabled are now green enabled except the last two (thats ok). Now we will rename the ost-config.php. Go to inetpub and then wwwroot and click on the 'include' folder. Scroll downa nd look for 'ost-sampleconfig.php' and rename it to 'ost-config.php'. 
+ 
+<img src="https://i.imgur.com/Pigraim.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />                                                                                                
+
+                                                                                                 
                                                                                                  

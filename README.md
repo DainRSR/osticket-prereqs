@@ -141,3 +141,16 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 
 </p>
 <br />                                                                                                 
+
+                                                                                                 
+2.5 Now we will download osTicket. Use the download link provided previously. Go to downloads and double click the osTicket file. Open a separate window and open the C:Drive and look for 'inetpub' double click it and double click 'wwwroot' and we will drag our 'upload' folder from osTicket and rop it into our wwwroot folder.
+
+<img src="https://i.imgur.com/KGT8Hdc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />   
+                                                                                                 
+                                                                                                 
+                                                                                                 

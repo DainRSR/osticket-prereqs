@@ -173,4 +173,13 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />                                                                                                 
 
                                                                                                  
+2.8 Here we will download and install HeidiSQL (database client) which will give us access to the MySQL database we installed earlier. Installation is pretty simple. Once Heidi opens you will select 'New' and there we will see username and password. The user is automatically going to be 'root' and the password is what you created before. Click ok and now you can see we have access to the database.  Here is the link to download HeidiSQL: https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe                                                                                            
+<img src="https://i.imgur.com/x3wZcPf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+                                                                                                 
+                                                                                                 
                                                                                                  

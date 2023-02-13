@@ -173,7 +173,7 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />                                                                                                 
 
                                                                                                  
-2.8 Here we will download and install HeidiSQL (database client) which will give us access to the MySQL database we installed earlier. Installation is pretty simple. Once Heidi opens you will select 'New' and there we will see username and password. The user is automatically going to be 'root' and the password is what you created before. Click ok and now you can see we have access to the database. Right click 'Unnamed" create new and clcik database. We will put 'osTicket' as the name and click ok. Now go back to osTicket in the browser, scroll data to Database settings and input the username:root and whatever password you created. For the MySQL Database: you will put osTicket. 
+2.8 Here we will download and install HeidiSQL (database client) which will give us access to the MySQL database we installed earlier. Installation is pretty simple. Once Heidi opens you will select 'New' and there we will see username and password. The user is automatically going to be 'root' and the password is what you created before. Click ok and now you can see we have access to the database. Right click 'Unnamed" create new and clcik database. We will put 'osTicket' as the name and click ok. Now go back to osTicket in the browser, scroll data to Database settings and input the username:root and whatever password you created. For the MySQL Database: you will put osTicket. Click install and CONGRADULATIONS! 
 Here is the link to download HeidiSQL: https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe                                                                                            
 <img src="https://i.imgur.com/IGJfVd1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -188,3 +188,12 @@ Here is the link to download HeidiSQL: https://www.heidisql.com/installers/Heidi
 </p>
 <br />                                                                                                 
                                                                                                  
+
+2.9 To end this portion of the lab we will just do a little clean up. GO to the C: drive, inetpub, wwwroot and select the 'setup' folder and delete it. The scroll up and go to the 'Include' folder double click it. Scroll down to 'ost-config.php' right click and select properties so we can reset permissions to read-only. Security, advance, go to 'everyone' and edit. uncheck everything except read and write and press ok and apply. Now you can check and see if your log-in credentials work. Remeber your username and password. http://localhost/osTicket/scp/login.php
+
+<img src="https://i.imgur.com/55vtl3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />

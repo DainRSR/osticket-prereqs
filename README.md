@@ -143,9 +143,9 @@ Open up microsoft edge and in your browser type in 127.0.0.1. This is a local lo
 <br />                                                                                                 
 
                                                                                                  
-2.5 Now we will download osTicket. Use the download link provided previously. Go to downloads and double click the osTicket file. Open a separate window and open the C:Drive and look for 'inetpub' double click it and double click 'wwwroot' and we will drag our 'upload' folder from osTicket and rop it into our wwwroot folder.
+2.5 Now we will download osTicket. Use the download link provided previously. Go to downloads and double click the osTicket file. Open a separate window and open the C:Drive and look for 'inetpub' double click it and double click 'wwwroot' and we will drag our 'upload' folder from osTicket and copy it into our wwwroot folder. Next rename the 'upload' folder to osTicket. Go back to IIS and hit restart. On the left of the home page hit the down arrow on sites and then again on default web site and click osTicket. Look to the right of page and select 'Browse *:80(http)' and it should open up a OsTicket window. You'll notice that some extensions are not enabled so we will enable them in IIS. 
 
-<img src="https://i.imgur.com/KGT8Hdc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sbqEHfz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
